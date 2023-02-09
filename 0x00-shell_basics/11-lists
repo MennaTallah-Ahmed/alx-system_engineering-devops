@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -la . .. /bot 
-ls =la . .. /boot
+ls -la . .. /boot  
